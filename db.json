@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ali",
+      "email": "ali@example.com",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "name": "Vali",
+      "email": "vali@example.com",
+      "password": "12345"
+    }
+  ],
+  "todos": [
+    {
+      "text": "Til orfanish",
+      "completed": false,
+      "priority": "medium",
+      "createdAt": "2026-10-16T04:36:04.337Z",
+      "userId": 1,
+      "id": "7Qs8AboqzHY"
+    },
+    {
+      "text": "Spain tilini organish",
+      "completed": false,
+      "priority": "high",
+      "createdAt": "2026-10-16T04:49:41.962Z",
+      "userId": 1,
+      "id": "qcfxMXCATsQ"
+    },
+    {
+      "text": "uxlash",
+      "completed": false,
+      "priority": "low",
+      "createdAt": "2026-10-16T04:49:55.218Z",
+      "userId": 1,
+      "id": "JoH3zPomkxg"
+    },
+    {
+      "text": "hujgyhftxdxfghyjg",
+      "completed": false,
+      "priority": "medium",
+      "createdAt": "2026-10-16T05:16:57.906Z",
+      "userId": 2,
+      "id": "uJmKFAL13ok"
+    },
+    {
+      "text": "cgvhbjk",
+      "completed": false,
+      "priority": "high",
+      "createdAt": "2026-10-16T05:17:20.807Z",
+      "userId": 2,
+      "id": "fE3RjM-IFuo"
+    },
+    {
+      "text": "gvghng",
+      "completed": false,
+      "priority": "medium",
+      "createdAt": "2026-10-16T05:17:24.774Z",
+      "userId": 2,
+      "id": "4F84OPtrTw8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
